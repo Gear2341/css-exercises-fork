@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#even2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#even3 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
