@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.One-text {
+    background-color: black;
+    color: white;
+}
+
+.Two-text {
+    background-color: yellow;
+}
+
+.button {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
